@@ -1,2 +1,2 @@
 <?php
-echo '<h1>Development of CMS based on PHP</h1>';
+echo '<h1>lesson-22</h1>';
